@@ -70,7 +70,7 @@ int main() {
 	cout << " " << endl;
 	cout << "Car's color  " << endl;
 	cout << "Car's year  " << endl;
-	cout << "number of garage doors in your house  " << endl;
+	cout << "number of garage doors " << endl;
 	cout << "number of doors in your car " << endl;
 	cout << "number of windows in your car " << endl;
 
